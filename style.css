@@ -43,12 +43,12 @@
   background-position: center;
 }
 
-.outras-noticias-1 {
+.otherNews {
   display: flex;
   flex-wrap: wrap;
 }
 
-.outra-noticia-1-single {
+.otherNews-single {
   width: 50%;
   height: 48%;
   background-position: center;
@@ -56,16 +56,16 @@
   position: relative;
 }
 
-.outra-noticia-1-single img {
+.otherNews-single img {
   max-height: 547px;
 }
 
-.outra-noticia-1-single h3 {
+.otherNews-single h3 {
   margin-top: 10px;
   color: black;
 }
 
-.text-center p{
-   text-align: center;
-   color: gray;
+.text-center p {
+  text-align: center;
+  color: gray;
 }
