@@ -3,6 +3,8 @@
   padding: 0;
   box-sizing: border-box;
   width: 100%;
+  max-width: 2000px;
+  max-height: 1440px;
 }
 
 .center {
