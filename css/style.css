@@ -7,9 +7,17 @@
   max-height: 1440px;
 }
 
+.banner {
+  display: flex;
+  max-width: 90%;
+  margin: 0 auto;
+  padding: 0 2%;
+  flex-wrap: wrap;
+}
+
 .center {
   display: flex;
-  max-width: 100%;
+  max-width: 80%;
   margin: 0 auto;
   padding: 0 2%;
   flex-wrap: wrap;
@@ -46,7 +54,7 @@
 }
 
 .newsHighlight-single img{
-  margin-top: -100px;
+  margin-top: -115px;
 }
 
 .newsHighlight-single h1{
